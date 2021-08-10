@@ -46,6 +46,8 @@ public class BinSearch {
     num = new Num(1,2); //instance
     System.out.println(Num.c);
 //    System.out.println(uscln(27, 18));
+
+    System.out.println("edit something");
   }
 
   static int uscln(int q, int p) {
